@@ -1,0 +1,2 @@
+# MERI
+shell practice
