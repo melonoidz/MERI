@@ -1,2 +1,3 @@
 # MERI
 shell practice
+
