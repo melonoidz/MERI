@@ -2,8 +2,8 @@ import getpass
 import os
 import sys
 
-from function import find_command
-from mapping import BUILTIN_COMMAND_FUNC_MAPPING
+from .function import find_command
+from .mapping import BUILTIN_COMMAND_FUNC_MAPPING
 
 
 def main() -> None:
